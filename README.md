@@ -1,4 +1,4 @@
-# Hi there, I'm Griffith Lay! 👋
+# Hi there, I'm Griffth Lay! 👋
 ### Mobile & Web Developer | Computer Science Student at Binus University
 
 Saya adalah pengembang perangkat lunak yang berfokus pada **Android Development** dan **Business Logic Implementation**. Saya suka membangun aplikasi yang memecahkan masalah nyata, mulai dari keamanan transaksi C2C hingga platform membaca digital.
@@ -36,5 +36,5 @@ Saya adalah pengembang perangkat lunak yang berfokus pada **Android Development*
 ---
 
 ### 📫 Connect with Me
-* [LinkedIn](Link_LinkedIn_Kamu)
+* [LinkedIn](https://www.linkedin.com/in/griffth-lay-3548a3275/)
 * [Email](mailto:griffthlayz@gmail.com)
